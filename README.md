@@ -1,4 +1,4 @@
-# 🛡️  Cyber Security Research – SAMAPDA 2025  
+# 🛡️  Cyber Security Research – SAMPADA 2025  
 
 ## 🔥 Overview  
 This repository contains research and scripts developed to detect, mitigate, and counter **cyber threats** posed by adversaries in a **Windows environment**. The focus is on detecting **Initial Access, Persistence, and Privilege Escalation**, as well as implementing **detection mechanisms**.
